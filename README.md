@@ -10,7 +10,7 @@ How I created  this o?
 3. create expresss project `express <project-name>`
 4. change the dir by `cd <project-name>`
 5. install all the dependencies by running `npm install`
-6. Now run the server by a) set debug=<project-name>  b) node app.js .\bin\www
+6. Now run the server by a) set debug=\<project-name\>  b) node .\bin\www
 7. open the browser at http://localhost:3000
 8. You can change the port number in app.js
 
