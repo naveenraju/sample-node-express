@@ -14,5 +14,14 @@ How I created  this o?
 7. open the browser at http://localhost:3000
 8. You can change the port number in app.js
 
+----------------------------------------------
+
+Step1:npm update -g express-generator
+Step2:express sample-node-express
+step3:cd sample-node-express
+step4:npm install
+step5:mkdir data
+step6:npm start
+
 
 
